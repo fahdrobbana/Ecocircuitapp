@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+
+    <color name="Primary">#16B09D</color>
+    <color name="Secondary">#0c0f18</color>
+
+    <color name="colorPrimary">#16B09D</color>
+    <color name="colorPrimaryDark">#0C8A7B</color>
+    <color name="colorPrimaryLight">#16B09D</color>
+    <color name="colorPrimaryOverLay">#16B09D</color>
+
+    <color name="colorSecondary">#0c0f18</color>
+    <color name="colorSecondaryDark">#333744</color>
+    <color name="colorSecondaryLight">#111d40</color>
+    <color name="colorSecondaryOverLay">#CC0c0f18</color>
+    <color name="your_color_surface">#FF0000</color>
+    <color name="inputColor">#E6554E4E</color>
+
+</resources>

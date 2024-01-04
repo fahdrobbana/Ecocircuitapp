@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ecocircuit</string>
+    <string name="not_empty">Must not be empty!</string>
+    <string name="mapbox_access_token">sk.eyJ1Ijoicm9iYmFuYWZhaGQiLCJhIjoiY2xwaThjZTF2MDlyNTJqbnA2dzZrcDBnYyJ9.eHqIqIyowSBjC8kcljjafQ</string>
+    <string name="title_activity_compose">ComposeActivity</string>
+    <string name="nom_de_l_organisation">Nom de l\'organisation\n</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="valider">Valider</string>
+</resources>
